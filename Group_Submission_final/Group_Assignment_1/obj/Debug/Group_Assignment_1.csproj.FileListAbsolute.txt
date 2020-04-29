@@ -1,0 +1,16 @@
+D:\Group_Assignment_1\Group_Assignment_1\bin\Debug\Group_Assignment_1.exe.config
+D:\Group_Assignment_1\Group_Assignment_1\bin\Debug\Group_Assignment_1.exe
+D:\Group_Assignment_1\Group_Assignment_1\bin\Debug\Group_Assignment_1.pdb
+D:\Group_Assignment_1\Group_Assignment_1\obj\Debug\Group_Assignment_1.csprojAssemblyReference.cache
+D:\Group_Assignment_1\Group_Assignment_1\obj\Debug\Group_Assignment_1.csproj.ResolveComReference.cache
+D:\Group_Assignment_1\Group_Assignment_1\obj\Debug\Group_Assignment_1.csproj.CoreCompileInputs.cache
+D:\Group_Assignment_1\Group_Assignment_1\obj\Debug\Group_Assignment_1.exe
+D:\Group_Assignment_1\Group_Assignment_1\obj\Debug\Group_Assignment_1.pdb
+E:\Aliaksandr\Group_Assignment_1\bin\Debug\Group_Assignment_1.exe.config
+E:\Aliaksandr\Group_Assignment_1\bin\Debug\Group_Assignment_1.exe
+E:\Aliaksandr\Group_Assignment_1\bin\Debug\Group_Assignment_1.pdb
+E:\Aliaksandr\Group_Assignment_1\obj\Debug\Group_Assignment_1.csprojAssemblyReference.cache
+E:\Aliaksandr\Group_Assignment_1\obj\Debug\Group_Assignment_1.csproj.ResolveComReference.cache
+E:\Aliaksandr\Group_Assignment_1\obj\Debug\Group_Assignment_1.csproj.CoreCompileInputs.cache
+E:\Aliaksandr\Group_Assignment_1\obj\Debug\Group_Assignment_1.exe
+E:\Aliaksandr\Group_Assignment_1\obj\Debug\Group_Assignment_1.pdb
